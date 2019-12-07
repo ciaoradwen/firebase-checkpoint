@@ -1,0 +1,246 @@
+
+
+ body {
+    background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, black, black 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    height: 100%;
+              }
+  
+
+#imgc1,#imgc2,#imgc3{
+  height: 740px;
+}
+#imgc2,#imgc3{
+  width:1515px ;
+}
+  .carousel-inner{
+    width: 1515px;
+    max-width: 1515px;
+    height:740px ;
+    max-height: 740px;
+
+  }
+  .container1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19.5px;
+  }
+
+  a {
+    color: white !important;
+  }
+  a:link{text-decoration: none !important;
+  color:white !important;}
+  a:hover{color: red !important;}
+ #go{
+   color: white;
+   font-family:  Helvetica;
+   display: flex;
+   justify-content: center;
+ }
+ #feedback{
+   color: white;
+   display: flex;
+   justify-content: center;
+ }
+ #courses{
+   color: white;
+    background-image:url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    height: 450px;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+ }
+ #contact{
+   color:white;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 200px;
+   background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+   height: 390px;
+   background-position: center;
+   
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+ }
+ .wow{
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   display: flex;
+   justify-content: center;
+   font-size: 12px;
+ }
+ #name, #track, #email, #phone{
+   width: 220px;
+ }
+ .sumbitbutton{
+   display: flex;
+   justify-content: center;
+ }
+ #course{
+   color: white;
+   display: flex;
+   justify-content: center;
+
+ }
+ .img00{
+  
+    background-image: url("res/vect00.png");
+   
+
+ }
+ .img00:hover {
+  opacity: 0.3;
+}
+.img01{
+  
+  background-image: url("res/vect01.png");
+
+}
+.img01:hover {
+opacity: 0.3;
+}     
+
+
+
+.img02{
+  
+  background-image: url("res/vect02.png");
+ 
+
+}
+.img02:hover {
+opacity: 0.3;
+}      
+
+
+.allimg{
+  height: 150px;
+  width: 200px;
+  background-repeat: no-repeat;
+  display:flex;
+justify-content: center;
+align-items: center;
+background-size: cover;
+margin:10px;
+/* flex-direction: row; */
+}
+
+/* .blocks-container {
+  display: flex;
+  justify-content: space-between;
+} */
+
+
+.img03{
+  
+  background-image: url("res/vect03.png");
+
+}
+.img03:hover {
+opacity: 0.3;
+}  
+
+.img04{
+  
+  background-image: url("res/vect04.png");
+
+}
+.img04:hover {
+opacity: 0.3;
+}     
+.img05{
+  
+  background-image: url("res/vect05.png");
+
+}
+.img05:hover {
+opacity: 0.3;
+}    
+
+.img06{
+  
+  background-image: url("res/vect06.png");
+
+}
+.img06:hover {
+opacity: 0.3;
+}    
+.img07{
+  
+  background-image: url("res/vect07.png");
+
+}
+.img07:hover {
+opacity: 0.3;
+}    
+.img08{
+  
+  background-image: url("res/vect08.png");
+
+}
+.img08:hover {
+opacity: 0.3;
+}    
+/* .blocks-container1{
+  display: flex;
+  justify-content:space-between;
+}
+.blocks-container2{
+  display: flex;
+  justify-content: space-between;
+} */
+
+
+
+
+#bouton{ display: flex;
+justify-content: center;}
+
+ #link{
+   display:flex;
+   justify-content: center;
+   
+ }
+ .img1,.img2,.img3 {
+   display: flex;
+   justify-content: space-around;
+  
+   
+   
+ }
+ #co{
+   display: flex;
+   justify-content: center;
+   
+ }
+ #message{
+   width:150px;
+ }
+
+#Track0,#Track1,#Track2,#Track3,#Track4,#Track5,#Track6,#Track7,#Track8{
+  display:none;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+.nav-bar{
+  border: none;
+ background-color: transparent;
+ 
+}
+
+#my-logo {
+ width: 50px;
+    }
+
+ 
